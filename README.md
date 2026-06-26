@@ -2,6 +2,9 @@
 
 A multi-step registration form built using React, React Hook Form, and Zod.
 
+# Live Demo
+https://registration-wizard-coral.vercel.app/
+
 ## Features
 
 - Multi-Step Form
