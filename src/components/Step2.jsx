@@ -89,13 +89,7 @@ function Step2({
         {showPassword ? "Hide Password" : "Show Password"}
       </button>
 
-      <div
-        style={{
-          display: "flex",
-          gap: "10px",
-          marginTop: "15px",
-        }}
-      >
+      <div className="button-group">
         <button
           type="button"
           onClick={prevStep}

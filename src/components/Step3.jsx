@@ -35,13 +35,7 @@ function Step3({
         </p>
       </div>
 
-      <div
-        style={{
-          display: "flex",
-          gap: "10px",
-          marginTop: "20px",
-        }}
-      >
+      <div className="button-group"     >
         <button
           type="button"
           onClick={prevStep}
